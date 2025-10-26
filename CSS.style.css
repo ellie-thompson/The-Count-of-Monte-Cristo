@@ -1,0 +1,48 @@
+/* General page background + text colors */
+body {
+  background-color: #2C2C2C;   /* dark gray for a dramatic theme */
+  color: #F5F5F5;              /* off-white text for contrast */
+  font-family: 'Georgia', serif;
+  margin: 0;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+/* Headings: bold serif, contrasting accent color */
+h1, h2 {
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  color: #E63946; /* deep red accent */
+}
+
+/* Paragraph text */
+p {
+  font-family: 'Verdana', sans-serif;
+  font-size: 18px;
+  text-indent: 20px;
+}
+
+/* Unordered list */
+ul {
+  font-family: 'Verdana', sans-serif;
+  font-size: 18px;
+  margin-left: 40px;
+}
+
+/* Center images */
+img {
+  display: block;
+  margin: 20px auto;
+  border: 3px solid #E63946; /* accent border */
+  border-radius: 8px;
+}
+
+/* Links */
+a {
+  color: #FFD166; /* warm gold for emphasis */
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
