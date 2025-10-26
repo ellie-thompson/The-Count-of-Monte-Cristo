@@ -1,6 +1,5 @@
 /* General page background + text colors */
 body {
-  background-color: #2C2C2C;   /* dark gray for a dramatic theme */
   color: #F5F5F5;              /* off-white text for contrast */
   font-family: 'Georgia', serif;
   margin: 0;
@@ -46,3 +45,4 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
